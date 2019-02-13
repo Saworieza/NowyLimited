@@ -156,7 +156,8 @@
 					<div class="col-sm-12 col-md-12" id="sp-component">
 						<div class="sp-column">
 							<div id="system-message-container"></div>
-							<form action="contact-us" class="formResponsive" id="userForm" method="post" name="userForm">
+							<!-- <form action="contact-us" class="formResponsive" id="userForm" method="post" name="userForm"> -->
+							<form action="mailer.php" class="formResponsive" id="userForm" method="POST" name="userForm">
 								<h2>Request a Quote</h2>
 								<div id="rsform_error_3" style="display: none;">
 									<p class="formRed">Please complete all required fields!</p>
@@ -165,7 +166,8 @@
 									<div class="rsform-block rsform-block-quote-intro-text">
 										<div class="formBody">
 											<h1>Let's get to know each other.</h1>
-											<p>Fill out the form or call us to get started!</p>
+											<p>Fill out the form or mail us directly to <a href="mailto:info@nowylimited.com"> info@nowylimited.com</a> to get started!</p>
+											<p>Or give us a call <a href=""> +254 (0) 705 762 763</a> /<a href=""> +27 (0) 723 043 194</a></p>
 										</div>
 									</div>
 									<div class="rsform-block rsform-block-name">
@@ -174,7 +176,10 @@
 										</div>
 										<div class="formControls">
 											<div class="formBody">
-												<input class="rsform-input-box" id="name" name="form[name]" size="20" type="text" value=""><span class="formValidation"><span class="formNoError" id="component23">Invalid Input</span></span>
+												<input class="rsform-input-box" id="name" name="name" size="20" type="text" value="">
+												<span class="formValidation">
+													<span class="formNoError" id="component23">Invalid Input</span>
+												</span>
 											</div>
 											<p class="formDescription"></p>
 										</div>
@@ -185,7 +190,10 @@
 										</div>
 										<div class="formControls">
 											<div class="formBody">
-												<input class="rsform-input-box" id="email" name="form[email]" size="20" type="text" value=""><span class="formValidation"><span class="formNoError" id="component24">Invalid Input</span></span>
+												<input class="rsform-input-box" id="email" name="email" size="20" type="text" value="">
+												<span class="formValidation">
+													<span class="formNoError" id="component24">Invalid Input</span>
+												</span>
 											</div>
 											<p class="formDescription"></p>
 										</div>
@@ -196,7 +204,10 @@
 										</div>
 										<div class="formControls">
 											<div class="formBody">
-												<input class="rsform-input-box" id="phone" name="form[phone]" size="20" type="text" value=""><span class="formValidation"><span class="formNoError" id="component31">Invalid Input</span></span>
+												<input class="rsform-input-box" id="phone" name="phone" size="20" type="text" value="">
+												<span class="formValidation">
+													<span class="formNoError" id="component31">Invalid Input</span>
+												</span>
 											</div>
 											<p class="formDescription"></p>
 										</div>
@@ -207,7 +218,10 @@
 										</div>
 										<div class="formControls">
 											<div class="formBody">
-												<textarea class="rsform-text-box" cols="50" id="comments" name="form[comments]" rows="5"></textarea><span class="formValidation"><span class="formNoError" id="component27">Invalid Input</span></span>
+												<textarea class="rsform-text-box" cols="50" id="comments" name="message" rows="5"></textarea>
+												<span class="formValidation">
+													<span class="formNoError" id="component27">Invalid Input</span>
+												</span>
 											</div>
 											<p class="formDescription"></p>
 										</div>
@@ -218,7 +232,9 @@
 										</div>
 										<div class="formControls">
 											<div class="formBody">
-												<button class="rsform-submit-button" id="submit" name="form[submit]" type="submit">Submit</button><span class="formValidation"></span>
+												<!-- <button class="rsform-submit-button" id="submit" name="submit" type="submit">Submit</button><span class="formValidation"></span> -->
+												<!-- <button class="rsform-submit-button" id="submit" name="submit" type="submit" value="Send">Submit</button><span class="formValidation"></span> -->
+												<input type="submit" value="Send">
 											</div>
 											<p class="formDescription"></p>
 										</div>
@@ -263,51 +279,51 @@
 			</div>
 		</section>
 		<footer id="sp-footer">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12 col-md-12" id="sp-footer1">
-						<div class="sp-column">
-							<span class="sp-copyright"></span>
-							<div class="foot">
-								<span class="sp-copyright"></span>
-								<p><span class="sp-copyright">© 2016 Rosalie Design and Build.</span></p>
-								<p><span class="sp-copyright"><a href="component/content/article?id=80&amp;itemid=554">Terms</a> | <a href="privacy">Privacy</a> | <a href="contact-us#">Contact</a></span></p>
-								<p><span class="sp-copyright">Site by <a href="http://cleverbirds.com" target="_blank">Cleverbirds</a></span></p>
-							</div>
-							<div class="sp-module action_footer">
-								<div class="sp-module-content">
-									<div class="customaction_footer">
-										<h1>Ready to create your <em>ideal project?</em></h1>
-										<p><a href="contact-us">Get started today with Nowie Limited <img alt="" src="images/clever-arrow.png"></a></p>
-									</div>
-								</div>
-							</div>
-							<div class="sp-module clever_footer">
-								<div class="sp-module-content">
-									<div class="customclever_footer">
-										<div class="clever-footer-left"><img alt="" src="images/logo2.png"></div>
-										<div class="clever-footer-center">
-											&copy; 2019 Nowy Limited<br>
-											<a href="#">Terms &amp; Conditions</a>&nbsp;|&nbsp;
-											<a href="#">Privacy Policy</a>&nbsp;|&nbsp;
-											<a href="contact-us">Contact us</a>
-											<br>
-											Hand made in Nairobi&nbsp;by <a href="tel: +254 703 597 595" target="_blank">Camel Designs</a>
-										</div>
-										<div class="clever-footer-right">
-											<a href="#" style="display: none;" target="_blank"><img alt="" src="images/footer-houzz.png"></a> 
-											<a href="https://www.instagram.com/" target="_blank"><img alt="" src="images/footer-it.png"></a> 
-											<a href="https://plus.google.com/" target="_blank"><img alt="" src="images/footer-gp.png"></a> 
-											<a href="https://www.facebook.com/" target="_blank"><img alt="" src="images/footer-fb.png"></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12" id="sp-footer1">
+            <div class="sp-column">
+              <span class="sp-copyright"></span>
+              <div class="foot">
+                <span class="sp-copyright"></span>
+                <p><span class="sp-copyright">© 2016 Rosalie Design and Build.</span></p>
+                <p><span class="sp-copyright"><a href="services?id=80&amp;itemid=554">Terms</a> | <a href="privacy">Privacy</a> | <a href="services#">Contact</a></span></p>
+                <p><span class="sp-copyright">Site by <a href="http://cleverbirds.com" target="_blank">Cleverbirds</a></span></p>
+              </div>
+              <div class="sp-module action_footer">
+                <div class="sp-module-content">
+                  <div class="customaction_footer">
+                    <h1>Ready to create your <em>ideal project?</em></h1>
+                    <p><a href="contact-us">Get started today with Nowie Limited <img alt="" src="images/clever-arrow.png"></a></p>
+                  </div>
+                </div>
+              </div>
+             <div class="sp-module clever_footer">
+                <div class="sp-module-content">
+                  <div class="customclever_footer">
+                    <div class="clever-footer-left"><img alt="" src="images/logo2.png"></div>
+                    <div class="clever-footer-center">
+                      &copy; 2019 Nowy Limited<br>
+                      <a href="#">Terms &amp; Conditions</a>&nbsp;|&nbsp;
+                      <a href="#">Privacy Policy</a>&nbsp;|&nbsp;
+                      <a href="contact-us">Contact us</a>
+                      <br>
+                      Hand made in Nairobi&nbsp;by <a href="tel: +254 703 597 595" target="_blank">Camel Designs</a>
+                    </div>
+                    <div class="clever-footer-right">
+                      <a href="#" style="display: none;" target="_blank"><img alt="" src="images/footer-houzz.png"></a> 
+                      <a href="https://www.instagram.com/" target="_blank"><img alt="" src="images/footer-it.png"></a> 
+                      <a href="https://plus.google.com/" target="_blank"><img alt="" src="images/footer-gp.png"></a> 
+                      <a href="https://www.facebook.com/" target="_blank"><img alt="" src="images/footer-fb.png"></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
 		<div class="offcanvas-menu">
 			<a class="close-offcanvas" href="index.html#"><i class="fa fa-remove"></i></a>
 			<div class="offcanvas-inner">
