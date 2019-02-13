@@ -52,27 +52,27 @@
 					</div>
 					<div class="col-sm-9 col-md-9" id="sp-menu">
 						<div class="sp-column">
-							<div class='sp-megamenu-wrapper'>
-								<a class="visible-xs" href="index.html#" id="offcanvas-toggler"><i class="fa fa-bars"></i></a>
-								<ul class="sp-megamenu-parent menu-fade hidden-xs">
-									<li class="sp-menu-item current-item active">
-										<a href="index.html">Home</a>
-									</li>
-									<li class="sp-menu-item">
-										<a href="about.html">About</a>
-									</li>
-									<li class="sp-menu-item sp-has-child">
-										<a href="services.html">Services</a>
-									</li>
-									<li class="sp-menu-item">
-										<a href="process.html">Process</a>
-									</li>
-									<li class="sp-menu-item">
-										<a href="contact-us.html">Contact</a>
-									</li>
-								</ul>
-							</div>
-						</div>
+              <div class='sp-megamenu-wrapper'>
+                <a class="visible-xs" href="index.html#" id="offcanvas-toggler"><i class="fa fa-bars"></i></a>
+                <ul class="sp-megamenu-parent menu-fade hidden-xs">
+                  <li class="sp-menu-item current-item active">
+                    <a href="index.html">Home</a>
+                  </li>
+                  <li class="sp-menu-item">
+                    <a href="about">About</a>
+                  </li>
+                  <li class="sp-menu-item sp-has-child">
+                    <a href="services">Services</a>
+                  </li>
+                  <li class="sp-menu-item">
+                    <a href="process">Process</a>
+                  </li>
+                  <li class="sp-menu-item">
+                    <a href="contact-us">Contact</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
 					</div>
 				</div>
 			</div>
