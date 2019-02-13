@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+	<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<link href="templates/one/fav/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
+	<link href="templates/one/fav/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60">
+	<link href="templates/one/fav/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+	<link href="templates/one/fav/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+	<link href="templates/one/fav/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+	<link href="templates/one/fav/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+	<link href="templates/one/fav/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+	<link href="templates/one/fav/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+	<link href="templates/one/fav/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
+	<link href="templates/one/fav/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png">
+	<link href="templates/one/fav/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+	<link href="templates/one/fav/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
+	<link href="templates/one/fav/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+	<base href="">
+	<meta content="text/html; charset=utf-8" http-equiv="content-type">
+	<meta content="remodeling process, design, build, consult, budget, cost, plan, walk through, prep, what to expect" name="keywords">
+	<meta content="index, follow" name="robots">
+	<meta content="Super User" name="author">
+	<meta content="What to expect, step by step. A systematic process with superior customer service at every stage." name="description">
+	<meta content="Joomla! - Open Source Content Management" name="generator">
+	<title>Rosalie Remodeling - Process</title>
+	<link href="templates/one/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="http://fonts.googleapis.com/css?family=Lato:300,700&amp;latin-ext" rel="stylesheet" type="text/css">
+	<link href="templates/one/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="templates/one/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="templates/one/css/legacy.css" rel="stylesheet" type="text/css">
+	<link href="templates/one/css/template.css" rel="stylesheet" type="text/css">
+	<link class="preset" href="templates/one/css/presets/preset1.css" rel="stylesheet" type="text/css">
+	<style type="text/css">
+	body{font-family:Lato, sans-serif; font-weight:300; }
+	h1{font-family:Lato, sans-serif; font-weight:700; }
+	h2{font-family:Lato, sans-serif; font-weight:700; }
+	h3{font-family:Lato, sans-serif; font-weight:700; }
+	h4{font-family:Lato, sans-serif; font-weight:700; }
+	h5{font-family:Lato, sans-serif; font-weight:700; }
+	#sp-top-bar{ background-color:#2d2d2d;color:#ffffff; }
+	#sp-footer{ background-color:#2d2d2d;color:#ffffff; }
+	</style>
+	<script src="media/jui/js/jquery.min.js" type="text/javascript">
+	</script>
+	<script src="media/jui/js/jquery-noconflict.js" type="text/javascript">
+	</script>
+	<script src="media/jui/js/jquery-migrate.min.js" type="text/javascript">
+	</script>
+	<script src="media/system/js/caption.js" type="text/javascript">
+	</script>
+	<script src="templates/one/js/bootstrap.min.js" type="text/javascript">
+	</script>
+	<script src="templates/one/js/jquery.sticky.js" type="text/javascript">
+	</script>
+	<script src="templates/one/js/main.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	jQuery(window).on('load',  function() {
+	               new JCaption('img.caption');
+	           });
+	</script>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<script src='google_analytics_auto.js'>
+	</script>
+</head>
+<body class="site com-content view-article no-layout no-task itemid-503 en-gb ltr sticky-header layout-fluid">
+	<div class="body-innerwrapper">
+		<section id="sp-top-bar">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 col-md-12" id="sp-top2">
+						<div class="sp-column">
+							<ul class="sp-contact-info">
+								<li class="sp-contact-phone">
+									<i class="fa fa-phone"></i> <a href='tel:1-847-864-5477'>847.864.5477</a>
+								</li>
+								<li class="sp-contact-email">
+									<i class="fa fa-envelope"></i> <a href="mailto:hello@rosalieremodeling.com">hello@rosalieremodeling.com</a>
+								</li>
+								<li style="list-style: none; display: inline">
+									<ul></ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<header id="sp-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-3 col-md-3" id="sp-logo">
+						<div class="sp-column">
+							<a class="logo" href="index.html">
+							<h1><img alt="Rosalie Remodeling" class="sp-default-logo hidden-xs" src="images/logo2.png"><img alt="Rosalie Remodeling" class="sp-retina-logo hidden-xs" height="96" src="images/logo2.png" width="532"><img alt="Rosalie Remodeling" class="sp-default-logo visible-xs" src="images/logo2.png"></h1></a>
+						</div>
+					</div>
+					<div class="col-sm-9 col-md-9" id="sp-menu">
+						<div class="sp-column">
+							<div class='sp-megamenu-wrapper'>
+								<a class="visible-xs" href="process#" id="offcanvas-toggler"><i class="fa fa-bars"></i></a>
+								<ul class="sp-megamenu-parent menu-fade hidden-xs">
+									<li class="sp-menu-item">
+										<a href="index.html">Home</a>
+									</li>
+									<li class="sp-menu-item">
+										<a href="about">About</a>
+									</li>
+									<li class="sp-menu-item sp-has-child">
+										<a href="services">Services</a>
+										<div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style="">
+											<div class="sp-dropdown-inner">
+												<div class="row">
+													<div class="col-sm-4"></div>
+													<div class="col-sm-4"></div>
+													<div class="col-sm-4"></div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li class="sp-menu-item current-item active">
+										<a href="process">Process</a>
+									</li>
+									<li class="sp-menu-item">
+										<a href="contact-us">Contact</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<section id="sp-slide">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 col-md-12" id="sp-slide">
+						<div class="sp-column">
+							<div class="sp-module page_header">
+								<div class="sp-module-content">
+									<div class="custompage_header" style="background-image: url('images/process-bg.jpg')">
+										<div class="valign-middle">
+											<h1>THE PROCESS</h1>
+											<p>ORDERLY APPROACH. EXTRAORDINARY OUTCOME.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="sp-module page_header_intro">
+								<div class="sp-module-content">
+									<div class="custompage_header_intro">
+										<div class="valign-middle">
+											<h1>What to expect, step by step.</h1>
+											<p>A systematic process with superior customer service at every stage.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="sp-module page_content_full">
+								<div class="sp-module-content">
+									<div class="custompage_content_full">
+										<div class="cleverboxes1">
+											<div class="cleverboxes-img"><img alt="" src="images/process1.jpg"></div>
+											<div class="cleverboxes-content">
+												<div class="valign-middle">
+													<h1>1. CONSULT</h1>
+													<p>We listen intently and offer solutions that fit your needs and budget.</p>
+												</div>
+											</div>
+										</div>
+										<div class="cleverboxes2">
+											<div class="cleverboxes-img"><img alt="" src="images/process2.jpg"></div>
+											<div class="cleverboxes-content">
+												<div class="valign-middle">
+													<h1>2. PLAN</h1>
+													<p>We present design concepts and products to choose from and document those decisions on detailed drawings.</p>
+												</div>
+											</div>
+										</div>
+										<div class="cleverboxes1">
+											<div class="cleverboxes-img"><img alt="" src="images/process3.jpg"></div>
+											<div class="cleverboxes-content">
+												<div class="valign-middle">
+													<h1>3. WALK-THRU</h1>
+													<p>After Nate’s site visit with our tradesmen, we calculate an accurate project cost and draw up a fixed-price contract.</p>
+												</div>
+											</div>
+										</div>
+										<div class="cleverboxes2">
+											<div class="cleverboxes-img"><img alt="" src="images/process4.jpg"></div>
+											<div class="cleverboxes-content">
+												<div class="valign-middle">
+													<h1>4. PREP</h1>
+													<p>We take painstaking measures to protect your home and minimize dust and disruption.</p>
+												</div>
+											</div>
+										</div>
+										<div class="cleverboxes1">
+											<div class="cleverboxes-img"><img alt="" src="images/process5.jpg"></div>
+											<div class="cleverboxes-content">
+												<div class="valign-middle">
+													<h1>5. WORK</h1>
+													<p>Nate is your daily point of contact, providing you with constant communication, a safe and clean environment, and timely completion.</p>
+												</div>
+											</div>
+										</div>
+										<div class="cleverboxes2">
+											<div class="cleverboxes-img"><img alt="" src="images/process6.jpg"></div>
+											<div class="cleverboxes-content">
+												<div class="valign-middle">
+													<h1>6. INSPECT</h1>
+													<p>A final walk-thru with Nate ensures our work meets your highest expectations and you understand any and all upkeep requirements.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="sp-page-title">
+			<div class="row">
+				<div class="col-sm-12 col-md-12" id="sp-title">
+					<div class="sp-column"></div>
+				</div>
+			</div>
+		</section>
+		<section id="sp-main-body">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 col-md-12" id="sp-component">
+						<div class="sp-column">
+							<div id="system-message-container"></div>
+							<article class="item item-page" itemscope itemtype="http://schema.org/Article">
+								<meta content="en-GB" itemprop="inLanguage">
+								<div class="page-header">
+									<h1>Rosalie Remodeling - Process</h1>
+								</div>
+								<div class="entry-header has-post-format">
+									<span class="post-format"><i class="fa fa-thumb-tack"></i></span>
+								</div>
+								<div itemprop="articleBody"></div>
+								<div class="clearfix" id="sp-social-share">
+									<span class="facebook-share"></span>
+									<div id="fb-root">
+										<span class="facebook-share"></span>
+									</div><span class="facebook-share">
+									<script>
+									(function(d, s, id) {
+									var js, fjs = d.getElementsByTagName(s)[0];
+									if (d.getElementById(id)) return;
+									js = d.createElement(s); js.id = id;
+									js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+									fjs.parentNode.insertBefore(js, fjs);
+									}(document, 'script', 'facebook-jssdk'));
+									</script></span>
+									<div class="fb-share-button" data-href="http://rosalieremodeling.com/process" data-layout="button_count">
+										<span class="facebook-share"></span>
+									</div><span class="twitter-share"><a class="twitter-share-button" data-text="Process" data-url="http://rosalieremodeling.com/process" href="process">Tweet</a> 
+									<script>
+									window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+									</script></span> <span class="google-plus-share">
+									<script async defer src="https://apis.google.com/js/platform.js">
+									</script></span>
+									<div class="g-plusone" data-href="" data-size="medium">
+										<span class="google-plus-share"></span>
+									</div>
+									</script></span>
+								</div>
+							</article>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer id="sp-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12" id="sp-footer1">
+            <div class="sp-column">
+              <span class="sp-copyright"></span>
+              <div class="foot">
+                <span class="sp-copyright"></span>
+                <p><span class="sp-copyright">© 2016 Rosalie Design and Build.</span></p>
+                <p><span class="sp-copyright"><a href="services?id=80&amp;itemid=554">Terms</a> | <a href="privacy">Privacy</a> | <a href="services#">Contact</a></span></p>
+                <p><span class="sp-copyright">Site by <a href="http://cleverbirds.com" target="_blank">Cleverbirds</a></span></p>
+              </div>
+              <div class="sp-module action_footer">
+                <div class="sp-module-content">
+                  <div class="customaction_footer">
+                    <h1>Ready to create your <em>ideal project?</em></h1>
+                    <p><a href="contact-us">Get started today with Nowie Limited <img alt="" src="images/clever-arrow.png"></a></p>
+                  </div>
+                </div>
+              </div>
+             <div class="sp-module clever_footer">
+                <div class="sp-module-content">
+                  <div class="customclever_footer">
+                    <div class="clever-footer-left"><img alt="" src="images/logo2.png"></div>
+                    <div class="clever-footer-center">
+                      &copy; 2019 Nowy Limited<br>
+                      <a href="#">Terms &amp; Conditions</a>&nbsp;|&nbsp;
+                      <a href="#">Privacy Policy</a>&nbsp;|&nbsp;
+                      <a href="contact-us">Contact us</a>
+                      <br>
+                      Hand made in Nairobi&nbsp;by <a href="tel: +254 703 597 595" target="_blank">Camel Designs</a>
+                    </div>
+                    <div class="clever-footer-right">
+                      <a href="#" style="display: none;" target="_blank"><img alt="" src="images/footer-houzz.png"></a> 
+                      <a href="https://www.instagram.com/" target="_blank"><img alt="" src="images/footer-it.png"></a> 
+                      <a href="https://plus.google.com/" target="_blank"><img alt="" src="images/footer-gp.png"></a> 
+                      <a href="https://www.facebook.com/" target="_blank"><img alt="" src="images/footer-fb.png"></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+		<div class="offcanvas-menu">
+			<a class="close-offcanvas" href="process#"><i class="fa fa-remove"></i></a>
+			<div class="offcanvas-inner">
+				<div class="sp-module">
+					<div class="sp-module-content">
+						<ul class="nav menu">
+							<li class="item-437">
+								<a href="index.html">Home</a>
+							</li>
+							<li class="item-279">
+								<a href="about">About</a>
+							</li>
+							<li class="item-502">
+								<a href="services">Services</a>
+							</li>
+							<li class="item-503 current active">
+								<a href="process">Process</a>
+							</li>
+							<li class="item-563">
+								<a href="contact-us">Contact</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
