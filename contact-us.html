@@ -31,43 +31,6 @@
 	<script src="templates/one/js/bootstrap.min.js" type="text/javascript"></script>
 	<script src="templates/one/js/jquery.sticky.js" type="text/javascript"></script>
 	<script src="templates/one/js/main.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		var RSFormProReCAPTCHAv2 = {
-		   loaders: [],
-		   onLoad: function() {
-		       window.setTimeout(function(){
-		           for (var i = 0; i < RSFormProReCAPTCHAv2.loaders.length; i++) {
-		               var func = RSFormProReCAPTCHAv2.loaders[i];
-		               if (typeof func == "function") {
-		                   func();
-		               }
-		           }
-		       }, 500)
-		   }
-		};
-
-		if (typeof jQuery !== 'undefined') {
-		   jQuery(document).ready(function($) {
-		       $(window).load(RSFormProReCAPTCHAv2.onLoad);
-		   });
-		} else if (typeof MooTools !== 'undefined') {
-		   window.addEvent('domready', function(){
-		        window.addEvent('load', RSFormProReCAPTCHAv2.onLoad);
-		   });
-		} else {
-		   RSFormProUtils.addEvent(window, 'load', function() {
-		       RSFormProReCAPTCHAv2.onLoad();
-		   });
-		}
-	   RSFormProReCAPTCHAv2.loaders.push(function(){
-	       grecaptcha.render('g-recaptcha-32', {
-	           'sitekey': '6LfITCITAAAAAMF7XBLqTvMPkkmOGjpc-VcX592e',
-	           'theme': 'light',
-	           'type': 'image',
-	           'size': 'normal'
-	       });
-	   });              
-	</script>
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 
 </head>
@@ -92,7 +55,7 @@
               <div class='sp-megamenu-wrapper'>
                 <a class="visible-xs" href="index.html#" id="offcanvas-toggler"><i class="fa fa-bars"></i></a>
                 <ul class="sp-megamenu-parent menu-fade hidden-xs">
-                  <li class="sp-menu-item current-item active">
+                  <li class="sp-menu-item ">
                     <a href="index.html">Home</a>
                   </li>
                   <li class="sp-menu-item">
@@ -102,9 +65,9 @@
                     <a href="services.html">Services</a>
                   </li>
                   <li class="sp-menu-item">
-                    <a href="process.html">Process</a>
+                    <a href="core-values.html">Core Values</a>
                   </li>
-                  <li class="sp-menu-item">
+                  <li class="sp-menu-item current-item active">
                     <a href="contact-us.html">Contact</a>
                   </li>
                 </ul>
@@ -331,7 +294,7 @@
 								<a href="services">Services</a>
 							</li>
 							<li class="item-503">
-								<a href="process">Process</a>
+								<a href="process">Core Values</a>
 							</li>
 							<li class="item-563">
 								<a href="contact-us">Contact</a>
