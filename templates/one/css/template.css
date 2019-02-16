@@ -166,7 +166,7 @@ label:hover:before {
 .cleverboxes1 .cleverboxes-img {float:left; width: 50%; }
 .cleverboxes2 .cleverboxes-content {background:#f3f3f3; text-align: center; width:50%; display: table; vertical-align: middle; float:left;}
 .cleverboxes2 .cleverboxes-img {float:right; width: 50%; }
-.cleverboxes1, .cleverboxes2 {position: relative; float: left; width: 100%; clear: both; max-height: 500px; overflow: hidden;}
+.cleverboxes1, .cleverboxes2 {position: relative; float: left; width: 100%; clear: both; max-height: 450px; overflow: hidden;}
 .cleverboxes-content {height: 500px;}
 .itemid-502 .sp-page-title {display: none;}
 .itemid-279 .custompage_header {background-size: cover; background-repeat: no-repeat; background-position: center right;}
@@ -177,7 +177,7 @@ label:hover:before {
 .tp-caption.very_large_text {
   font-family: 'BodoniClassico' !important; 
   font-weight: 100 !important; 
-  color: #151515 !important; 
+  color: #fff !important; 
   text-align: center !important; 
  
 }
@@ -531,12 +531,12 @@ em {font-family: 'sentinellightitalic'; font-style: none;}
 .home-slide2 {text-align:center; width:100%; float: left; clear: both; padding: 60px 0px;}
 .home-slide2 h1 {font-family: 'SentinelLight', Times New Roman, Georgia; font-weight: 100; font-size:40px; margin-bottom:15px; color:#313131; letter-spacing:0px;}
 .home-slide2 h1 em {font-family: 'sentinellightitalic' !important; font-style: normal;}
-.home-slide2 p {color:#aeaeae; font-weight:100; font-family: 'SentinelLight', Times New Roman, Georgia; font-size: 18px; margin: 10px auto; max-width: 50%; line-height: 1.8em;}
+.home-slide2 p {color:#aeaeae; font-weight:100; font-family: 'SentinelLight', Times New Roman, Georgia; font-size: 18px; margin: 10px auto; max-width: 75%; line-height: 1.8em;}
 .tp-caption.medium_text {
   font-family: 'BodoniClassico' !important;
   font-weight: 100 !important;
   letter-spacing: 5px;
-  color: #151515 !important;
+  color: #fff !important;
   text-align: center !important;
   margin-top: 20px !important;
   font-size: 15px !important;
@@ -552,7 +552,7 @@ em {font-family: 'sentinellightitalic'; font-style: none;}
 .btn-outline {
 	font-family: 'Montserrat';
     text-transform: uppercase;
-    color: #333333;
+    color: #000;
     font-weight: 700;
     letter-spacing: 4px;
     font-size: 11px;
@@ -1925,7 +1925,7 @@ ul.social-icons >li a {
   margin: 0 3px;
 }
 #sp-header {
-  background: transparent;
+  background: rgba(255, 255, 255, 0.4);
   height: 90px;
 }
 #sp-header .logo {
